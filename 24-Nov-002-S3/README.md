@@ -18,7 +18,8 @@
 ![](images/s3-buckets-files-folders-files.png)
 
 ### Storage classes and Lifecycle Management
-https://aws.amazon.com/s3/storage-classes/
+https://aws.amazon.com/s3/storage-classes/  
+https://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html  
 https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
 ![](images/s3-storage-classes-lifecycle-management.png)
 
